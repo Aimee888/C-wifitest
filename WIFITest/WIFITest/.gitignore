@@ -1,0 +1,7 @@
+/Debug
+/Release
+pch.cpp
+pch.h
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
